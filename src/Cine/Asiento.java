@@ -11,4 +11,39 @@ package Cine;
  */
 public class Asiento {
     
+    private char fila;
+    private byte columna;
+    private boolean libre;
+
+    public char getFila() {
+        return fila;
+    }
+
+    public void setFila(char fila) {
+        this.fila = fila;
+    }
+
+    public byte getColumna() {
+        return columna;
+    }
+
+    public void setColumna(byte columna) {
+        this.columna = columna;
+    }
+
+    public boolean isLibre() {
+        return libre;
+    }
+
+    public void setLibre(boolean libre) {
+        this.libre = libre;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
 }
