@@ -15,7 +15,13 @@ public class MainCine {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
+        
     }
+    
+    public static boolean validaAsiento(Sala s, String a){
+    
+    }
+    
     
 }
