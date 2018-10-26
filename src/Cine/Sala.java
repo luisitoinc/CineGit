@@ -52,5 +52,5 @@ public class Sala {
     }
     private static ArrayList<Character> nombreFilas;
     
-    
+    // prueba 2.0 
 }
